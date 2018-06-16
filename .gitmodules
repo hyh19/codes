@@ -4,3 +4,6 @@
 [submodule "commons-lang"]
 	path = commons-lang
 	url = https://gitee.com/mrhuangyuhui/commons-lang.git
+[submodule "commons-io"]
+	path = commons-io
+	url = https://gitee.com/mrhuangyuhui/commons-io.git
