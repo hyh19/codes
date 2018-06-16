@@ -7,3 +7,6 @@
 [submodule "commons-io"]
 	path = commons-io
 	url = https://gitee.com/mrhuangyuhui/commons-io.git
+[submodule "commons-fileupload"]
+	path = commons-fileupload
+	url = https://gitee.com/mrhuangyuhui/commons-fileupload.git
