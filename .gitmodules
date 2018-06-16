@@ -1,3 +1,6 @@
 [submodule "java"]
 	path = java
 	url = https://gitee.com/mrhuangyuhui/java.git
+[submodule "commons-lang"]
+	path = commons-lang
+	url = https://gitee.com/mrhuangyuhui/commons-lang.git
