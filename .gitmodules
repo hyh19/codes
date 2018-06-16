@@ -10,3 +10,6 @@
 [submodule "commons-fileupload"]
 	path = commons-fileupload
 	url = https://gitee.com/mrhuangyuhui/commons-fileupload.git
+[submodule "commons-collections"]
+	path = commons-collections
+	url = https://gitee.com/mrhuangyuhui/commons-collections.git
